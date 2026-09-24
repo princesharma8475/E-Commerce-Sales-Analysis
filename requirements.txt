@@ -1,0 +1,13 @@
+# E-Commerce Sales Analysis Project
+# Required Python Libraries
+
+# Data Analysis
+pandas
+numpy
+
+# Data Visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
